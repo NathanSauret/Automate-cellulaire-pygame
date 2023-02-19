@@ -15,3 +15,5 @@ Les documentations :
 Pour lancer le programme il faut, dans le terminal, aller dans le dossier où se trouve le programme puis effectuer la commande "python Automate-cellulaire.py".  
 Entrez la règle voulue pour générer l'automate cellulaire (entre 0 et 255) dans le terminal.  
 Appuyez sur entrée et l'automate cellulaire se génèrera dans la fenêtre pygame.  
+
+![](exemple.gif)
